@@ -40,4 +40,3 @@ MIT License. See [LICENSE](LICENSE) for details.
 ---
 
 Made with ❤️ by [Nariaris](https://github.com/Nariaris).
-```
