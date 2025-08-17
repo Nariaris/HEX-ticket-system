@@ -12,7 +12,7 @@ intents.guilds = True
 intents.message_content = True
 
 # Initializing the bot with a command prefix and intents
-bot = commands.Bot(command_prefix="\\", intents=intents)
+bot = commands.Bot(command_prefix="!", intents=intents)
 
 # Variable to store the ticket category ID
 ticket_category_id = None
